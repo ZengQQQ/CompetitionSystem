@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/team_project/application/web/finish_info.jsp" value="file://$PROJECT_DIR$/team_project/application/web" />
+        <entry key="file://$PROJECT_DIR$/team_project/application/web/home_page.jsp" value="file://$PROJECT_DIR$/team_project/application/web" />
+        <entry key="file://$PROJECT_DIR$/team_project/application/web/index-13.jsp" value="file://$PROJECT_DIR$/team_project/application/web" />
+        <entry key="file://$PROJECT_DIR$/team_project/application/web/list.jsp" value="file://$PROJECT_DIR$/team_project/application/web" />
+        <entry key="file://$PROJECT_DIR$/team_project/application/web/login.html" value="file://$PROJECT_DIR$/team_project/application/web" />
+        <entry key="file://$PROJECT_DIR$/team_project/application/web/myPeople.jsp" value="file://$PROJECT_DIR$/team_project/application/web" />
+        <entry key="file://$PROJECT_DIR$/team_project/application/web/myTeam.jsp" value="file://$PROJECT_DIR$/team_project/application/web" />
+        <entry key="file://$PROJECT_DIR$/team_project/application/web/showApplication.jsp" value="file://$PROJECT_DIR$/team_project/application/web" />
+        <entry key="file://$PROJECT_DIR$/team_project/application/web/showInvitation.jsp" value="file://$PROJECT_DIR$/team_project/application/web" />
+        <entry key="file://$PROJECT_DIR$/team_project/application/web/showReply.jsp" value="file://$PROJECT_DIR$/team_project/application/web" />
+        <entry key="file://$PROJECT_DIR$/team_project/application/web/showStudents(manager).jsp" value="file://$PROJECT_DIR$/team_project/application/web" />
+        <entry key="file://$PROJECT_DIR$/team_project/application/web/showTeam(Student).jsp" value="file://$PROJECT_DIR$/team_project/application/web" />
+        <entry key="file://$PROJECT_DIR$/team_project/application/web/showTeam.jsp" value="file://$PROJECT_DIR$/team_project/application/web" />
+        <entry key="file://$PROJECT_DIR$/team_project/application/web/showTeammate_2.jsp" value="file://$PROJECT_DIR$/team_project/application/web" />
+        <entry key="file://$PROJECT_DIR$/team_project/application/web/showUser(manager).jsp" value="file://$PROJECT_DIR$/team_project/application/web" />
+        <entry key="file://$PROJECT_DIR$/team_project/application/web/showUser.jsp" value="file://$PROJECT_DIR$/team_project/application/web" />
+      </map>
+    </option>
+  </component>
+</project>

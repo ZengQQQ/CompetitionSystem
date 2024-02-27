@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="schema">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/team_project/application/web/WEB-INF/lib/dataSources/f027fdc0-8f4b-475b-a411-c53fa5c1dfd7/storage_v2/_src_/schema/information_schema.FNRwLQ.zip!/" />
+      <root url="jar://$PROJECT_DIR$/team_project/application/web/WEB-INF/lib/dataSources/f027fdc0-8f4b-475b-a411-c53fa5c1dfd7/storage_v2/_src_/schema/sakila.oXLGyQ.zip!/" />
+      <root url="jar://$PROJECT_DIR$/team_project/application/web/WEB-INF/lib/dataSources/f027fdc0-8f4b-475b-a411-c53fa5c1dfd7/storage_v2/_src_/schema/sys.zb4BAA.zip!/" />
+      <root url="jar://$PROJECT_DIR$/team_project/application/web/WEB-INF/lib/dataSources/f027fdc0-8f4b-475b-a411-c53fa5c1dfd7/storage_v2/_src_/schema/test.kkQ2AA.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
